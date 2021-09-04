@@ -1,0 +1,12 @@
+*{
+    padding:0;
+    margin:0;
+    border:0;
+}
+.nav-link{
+    color:rgb(192, 189, 189) !important;
+    font-size:20px;
+}
+li{
+    padding-left:0;
+}
